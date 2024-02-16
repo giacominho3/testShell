@@ -1,0 +1,2 @@
+Contare quante volte compare la parola "quis" all'interno di file.txt
+Per farlo utilizzare grep e wc in combinazione
