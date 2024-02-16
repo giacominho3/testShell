@@ -1,0 +1,2 @@
+Eseguire il comando per vedere le differenze tra i due file contenuti nella cartella.
+Alla fine della riga diversa ci sará il numero
