@@ -1,2 +1,2 @@
-gcc .file.c
+gcc file.c
 ./a.out
