@@ -1,0 +1,2 @@
+Leggere il contenuto del file.txt in ordine alfabetico
+Il numero corrispondente alla prima lettera del file ordinato sará quello cercato
