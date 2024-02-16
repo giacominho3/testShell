@@ -1,0 +1,2 @@
+Modificare i permessi del file shell contenuto in questa cartella
+Eseguirlo

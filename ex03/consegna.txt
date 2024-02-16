@@ -1,0 +1,3 @@
+Creare un file shell in questa cartella (non in A) che esegua le seguenti istruzioni:
+Modifichi i permessi del file filedaleggere.txt contenuto nella cartella A
+Ne legga il contenuto

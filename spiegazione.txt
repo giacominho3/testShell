@@ -1,0 +1,4 @@
+Ogni cartella corrisponde ad uno e un solo esercizio
+Gli esercizi consistono nella ricerca di una serie di numeri
+Le consegne degli esercizi sono contenute nella directory principale dell'esercizio
+La soluzione agli esercizi sará la somma di tutti i numeri trovati negli esercizi

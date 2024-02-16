@@ -1,0 +1,4 @@
+Spostare il file1.txt che si trova nella cartella A nella cartella Z
+La somma dei numeri corrispondenti ai permessi dei due file sara' il secondo numero da sommare
+
+es: al permesso di lettura di un file corrisponde il valore 4 ecc...

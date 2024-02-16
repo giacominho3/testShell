@@ -1,0 +1,2 @@
+Cercare all'interno delle directory contenute all'interno di questo esercizio un file di nome: questoqui.txt
+Al suo interno c'é scritto il primo numero da sommare
